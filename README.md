@@ -5,9 +5,6 @@
   </div>
 <p align="center">
 
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
 
 
 	
@@ -38,9 +35,7 @@
 </tr>
  
 
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
-    </td>
+   
  <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
     </td>
@@ -57,9 +52,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fmain-qimg-28cadbd02699c25a88e5c78d73c7babc.webp?alt=media&token=e03aae20-c058-41a3-942b-162fdc622bd5">
     </td>
    
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
-    </td>
+ 
 </tr>
  
 
